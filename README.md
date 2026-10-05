@@ -14,4 +14,5 @@ This repository contains my Python coursework for Introduction to Python for Dat
 Python 3, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn
 
 Author: MWETSI BAHATI CHRISTIAN and members of Group 8 for the group project 
+
 Reg number: VU-BAD-2603-1121-DAY
