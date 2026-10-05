@@ -5,7 +5,7 @@ This repository contains my Python coursework for Introduction to Python for Dat
 
 - `01_EXERCISE_ON_PYTHON_BASICSs.ipynb` - All basics: variables, data types, loops, functions, error handling, OOP, file handling
   
- `02_PYTHON_LIBRARIES_PROJECT_Group 8.ipynb` - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+- `02_PYTHON_LIBRARIES_PROJECT_Group 8.ipynb` - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 ## How to Run
 1. Clone repo
