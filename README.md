@@ -1,5 +1,5 @@
 # Python Coursework Exercises
-This repository contains my Python coursework for Introduction to Python.
+This repository contains my Python coursework for Introduction to Pythonfor Data science
 
 ## Contents
 - `01_EXERCISE_ON_PYTHON_BASICSs.ipynb` - All basics: variables, data types, loops, functions, error handling, OOP, file handling
